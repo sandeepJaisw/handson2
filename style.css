@@ -1,0 +1,219 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    border: 10px groove blue;
+    background-image: url(./photo11.jpeg);
+    background-repeat: repeat;
+}
+.container1
+{
+    height: 120px;
+    width: 250px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+    z-index: -2;
+}
+.one 
+{
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    
+}
+/* .container2
+{
+    height: 50px;
+    width: 300px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 30px;
+    margin-left: 150px;
+    margin-top: -100px;
+    z-index: 2;
+} */
+.container3
+{
+    height: 150px;
+    width: 250px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    margin-left: 1050px;
+    margin-top: -120px;
+}
+.two
+{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.three
+{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+/* .para
+{
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+} */
+.container11
+{
+    height: 50px;
+    width: 300px;
+    background-color: black;
+    border-radius: 30px;
+    border: 5px solid red;
+    margin-left: 180px;
+    position: absolute;
+    top: 25px;
+}
+.container-form
+{
+    height: 700px;
+    width: 400px;
+    background-color: aliceblue;
+    border: 5px dashed red;
+    padding: 10px;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.one1
+{
+    color: red;
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
+}
+.form-item
+{
+    color: red;
+    text-align: center;
+}
+.circle-item
+{
+    height: 320px;
+    width: 320px;
+    background-color: rgb(0, 73, 52);
+    border: 5px solid gray;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: -500px;
+    padding: 10px;
+}
+.offer
+{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.offer1
+{
+    text-align: center;
+    text-decoration: underline;
+    /* margin-top: 50px; */
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.offer2
+{
+    text-align: center;
+    text-decoration: underline;
+    /* margin-top: 50px; */
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.menu
+{
+    background-color: black;
+    height: 50px;
+    width: 400px;
+    background-color: black;
+    border-radius: 30px;
+    border: 5px solid red;
+    margin-top: 180px;
+    margin-left: 40%;
+    margin-bottom: 5px;
+}
+.menu1
+{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding-top: 10px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ;
+}
+.flex-container
+{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: stretch;
+
+}
+.flex-item
+{
+    height: 350px;
+    width: 350px;
+    /* color: blue; */
+    background-color: aqua;
+    border: 5px solid black;
+    border-radius: 25px;
+    /* justify-content: space-evenly; */
+    margin: 20px;
+    /* text-align: center; */
+}
+/* .flex-item2
+{
+    height: 250px;
+    width: 300px;
+    background-color: aqua;
+}
+.flex-item3
+{
+    height: 250px;
+    width: 300px;
+    background-color: aqua;
+}
+.flex-item4
+{
+    height: 250px;
+    width: 300px;
+    background-color: aqua;
+}
+.flex-item5
+{
+    height: 250px;
+    width: 300px;
+    background-color: aqua;
+}
+.flex-item6
+{
+    height: 250px;
+    width: 300px;
+    background-color: aqua;
+} */
+.item 
+{
+    color: blue;
+    text-align: center;
+    padding: 25px;
+}
+/* .item1
+{
+    color: blue;
+    text-align: center;
+} */
+.kitchen
+{
+    height: 270px;
+}
